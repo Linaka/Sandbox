@@ -9,13 +9,13 @@
 }
 @font-face {
 	font-family: Gotham Rounded Bold;
-	src: url("Gotham Rounded Bold.otf");
+	src: url("GothamRnd-Bold");
 }
 	
 #text{
 	font-family:"Gotham Rounded Bold", "Gotham Rounded Medium", "Gotham Rounded Light";
 	color: #fff;
-	font-size:16px;
+	font-size:17px;
 	padding:2px 2px 0px 2px;
 	letter-spacing: 2px;
 	text-align:center;
